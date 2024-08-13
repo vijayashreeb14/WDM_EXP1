@@ -61,7 +61,6 @@ Training Data Set Weather Table
 
 ![Screenshot 2024-08-13 213258](https://github.com/user-attachments/assets/abd527f1-aba7-403d-b8fd-faf515a3bb86)
 
-
 ### PREPROCESSING
 ### Procedure:
 #### 1) Add -> Pre-Processing Technique:
